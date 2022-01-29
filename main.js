@@ -6,7 +6,7 @@ const app = Vue.createApp({
             inStock: true,
             details: ['50% cotton', '30% wool', '20% polyester'],
             // solution
-            sizes: ['S', 'M', 'L', 'XL'],
+            sizes: [10, 'M', 'L', 'XL'],
             // solution
             variants: [
               { id: 2234, color: 'green' },
