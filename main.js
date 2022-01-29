@@ -3,7 +3,7 @@ const app = Vue.createApp({
         return {
             product: '  iPhone 13 Pro Max',
             // Solution
-            description: 'A warm fuzzy pair of socks.' 
+            description: 'Best iPhone ever .' 
             // Solution
         }
     }
